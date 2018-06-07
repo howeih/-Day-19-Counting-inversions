@@ -1,0 +1,4 @@
+[[package]]
+name = "counting_inversions"
+version = "0.1.0"
+
