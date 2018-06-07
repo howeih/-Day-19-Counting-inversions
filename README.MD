@@ -2,6 +2,8 @@
 <br>
 Count of inversions in array is a textbook showcase of what is the difference between quadratic and linearithmic algorithm.
 <br>
+https://en.wikipedia.org/wiki/Inversion_%28discrete_mathematics%29
+<br>
 While naive method may select each tuple of items to be compared, more efficient approach is to adapt merge-sort to do the counting for you. As a result, function returns number of inversions and the sorted array as bonus.
 <br>
 
